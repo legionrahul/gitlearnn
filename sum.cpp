@@ -9,7 +9,7 @@ class sum
     }
     void showdata()
     {
-        cout<<a+b;
+                                                                                              cout<<"sum is"<<a+b;
     }
 };
 int main()

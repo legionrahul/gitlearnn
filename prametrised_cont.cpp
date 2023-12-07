@@ -4,7 +4,7 @@ class complex
 {
     int a,b;
     public:
-    complex(int x,int y) //prametrized constructor
+    complex(int x,int y) //prametrized constructor...
     {a=x,b=y;
 
     }
